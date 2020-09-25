@@ -6,7 +6,7 @@ module.exports.Service = require('./lib/service');
 module.exports.errors = require('./lib/errors');
 
 module.exports.services = {};
-module.exports.services.HTH = require('./lib/services/hthd');
+module.exports.services.HTH = require('./lib/services/helpthehomelessd');
 module.exports.services.Web = require('./lib/services/web');
 
 module.exports.scaffold = {};
