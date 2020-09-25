@@ -8,10 +8,10 @@ A Dash full node for building applications and services with Node.js. A node is 
 ### As a standalone server
 
 ```bash
-git clone https://github.com/dashevo/dashcore-node
-cd dashcore-node
+git clone https://github.com/MichaelHDesigns/hthcore-node
+cd hthcore-node
 npm install
-./bin/dashcore-node start
+./bin/hthcore-node start
 ```
 
 When running the start command, it will seek for a .dashcore folder with a dashcore-node.json conf file.
