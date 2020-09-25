@@ -46,8 +46,8 @@
     "hthd"
   ],
   "dependencies": {
-    "hthcore-lib": "github.com/MichaelHDesigns/hthcore-lib#master",
-    "hthd-rpc": "github.com/MichaelHDesigns/hthd-rpc#master",
+    "hthcore-lib": "https://github.com/MichaelHDesigns/hthcore-lib.git",
+    "hthd-rpc": "https://github.com/MichaelHDesigns/hthd-rpc.git",
     "async": "^2.6.2",
     "body-parser": "^1.19.0",
     "colors": "^1.3.3",
